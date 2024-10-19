@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/encyclopedia/atlas-regions/the-worldseat/"}
 ---
 
-![Pasted image 20240607144253.png](/img/user/Images/Pasted%20image%2020240607144253.png)
+![_df6c8cbd-6b62-41d4-b956-b31e1b3bf4bf.jpeg](/img/user/_df6c8cbd-6b62-41d4-b956-b31e1b3bf4bf.jpeg)
 
 At the center of the world of the Shard lies its most important feature: the Worldseat. The prison of the Mad God [[Encyclopedia/Creatures/Deities and Demigods/Golyaht\|Golyaht]], this is where he slumbers, dormant. Life and magic emanate from him, but are equally at risk of being corrupted by his spiteful nightmares. The Worldseat manifests as a huge, twisted pillar of stone and flesh, often weeping strange streams of magmatic nectar.
  
