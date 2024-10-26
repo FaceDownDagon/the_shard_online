@@ -10,4 +10,4 @@ Rolls can be further modified by various circumstantial factors. These do not ty
 
 The first d10 in any roll is called the 'leading die.' Keep track of the leading die by using a differently colored d10, or by using the leftmost result when using a digital die roller. Some rules will refer to this die. 
 
-Lastly, it should be noted that extra progress points over what is needed for success are not wasted. Extra progress points, or 'edge', can be spent to add various effect to a successful attack or spell, and sometimes to other actions as well. A tied die roll can be considered as "zero edge", and a losing roll might be -1 edge or worse.
+Lastly, it should be noted that extra progress points over what is needed for success are not wasted. Extra progress points, or 'edge', can be spent to add various effects to a successful attack or spell, and sometimes to other actions as well. A tied die roll can be considered as "zero edge", and a losing roll might be -1 edge or worse.
