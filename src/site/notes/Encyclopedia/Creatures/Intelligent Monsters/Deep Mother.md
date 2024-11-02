@@ -8,7 +8,7 @@ Bewilderingly, however, a Deep Mother Queen is only one part of a Deep Mother in
 
 Deep Mothers are immaculate users of [[Game Rules/Magic/Blood/The Sphere of Blood\|Blood magic]], and can craft new castes of drones just as easily as a mortal might craft an item out of wood or stone. That being said, a list of some common drone types is described below, though it cannot possibly be comprehensive. 
 
-- **Queen caste:** Primary reproducer. Seems to be more important to anchor a Brood Mother's consciousness and sense of self than any other caste. The Queen is also the most potent magic-user of any caste, possessing abilities that easily rival [[Encyclopedia/Creatures/Intelligent Monsters/Dragons/Dragons\|dragons]].
+- **Queen caste:** Primary reproducer. Seems to be more important to anchor a Deep Mother's consciousness and sense of self than any other caste. The Queen is also the most potent magic-user of any caste, possessing abilities that easily rival [[Encyclopedia/Creatures/Intelligent Monsters/Dragons/Dragons\|dragons]].
 - **Lady-in-waiting caste:** Immature queens kept in reserve, in case something befalls the current Queen.
 - **Packet caste:** Male drones used for breeding. Most of a Deep Mother's children are born asexually; however, different Deep Mothers will trade Packets with one another when they desire to intentionally spawn a new Deep Mother consciousness through a fresh, unlinked Queen.
 - **Weaver caste:** Nest-builders. Responsible for maintaining subterranean tunnels, which they line with silk.
