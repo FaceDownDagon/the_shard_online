@@ -24,4 +24,5 @@ The following additional stats can be derived from a character's attributes:
 | 15/16/17           | 6            |
 | 18/19              | 7            |
 | 20/21/22           | 8            |
+
 **Injury threshold** - Maximum HP - (Willpower + 1)
