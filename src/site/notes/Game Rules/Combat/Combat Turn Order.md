@@ -14,7 +14,7 @@ Unless a rule states otherwise, each character can act in one of these phases, p
 
 1 - Ranged attacks. Characters can make attacks with ranged weapons, or weaponlike ranged spells. This phase can be resolved simultaneously - damage and effects from ranged attacks are resolved after all ranged attacks are resolved.
 Instead of making an attack immediately, a character may instead elect to declare overwatch, storing their ranged attack for when (and if) selected enemies enter some declared area during movement.
-See [[Game Rules/Combat/Attacking\|Attacking]] for more information
+See [[Game Rules/Combat/Attacking\|Attacking]] for more information. Most [[Game Rules/Combat/Grappling\|Grappling]] occurs after other attacks have resolved.
 
 2 - Movement. Characters reposition themselves across the battlefield. This phase is resolved in order of Agility.
 Instead of moving normally, a character may instead declare intercept, moving in reaction to selected enemies to engage and block their movement into a declared area. {Intercept is experimental.}
