@@ -13,16 +13,17 @@ Characters in the Shard have the following attributes, which govern what that ch
 ##### Derivative stats
 The following additional stats can be derived from a character's attributes:
 **Hit points (HP)** - Strength + Willpower + Base HP for size (given in race, but generally 5 for human-sized races)
-**Melee attack** - (Strength + Reflex + Precision)/2.5, rounded down. Alternatively, use this table:
+**Melee attack** - (Strength + Reflex + Precision)/2.5, rounded up. Alternatively, use this table:
 
 | Sum of Str+Ref+Prc | Melee attack |
 | ------------------ | ------------ |
-| 5/6/7              | 2            |
-| 8/9                | 3            |
-| 10/11/12           | 4            |
-| 13/14              | 5            |
-| 15/16/17           | 6            |
-| 18/19              | 7            |
-| 20/21/22           | 8            |
+| 3/4/5              | 2            |
+| 6/7                | 3            |
+| 8/9/10             | 4            |
+| 11/12              | 5            |
+| 13/14/15           | 6            |
+| 16/17              | 7            |
+| 18/19/20           | 8            |
+| 21/22              | 9            |
 
 **Injury threshold** - Maximum HP - (Willpower + 1)
