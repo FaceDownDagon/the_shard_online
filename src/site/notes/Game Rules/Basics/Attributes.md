@@ -4,6 +4,7 @@
 
 Characters in the Shard have the following attributes, which govern what that character's areas of relative strength and weakness are.
 
+##### Primary attributes
 **Strength** - Increases a character's hit points, governs most weapon damage (ranged and melee!), governs how much a character can lift or carry, and governs [[Game Rules/Combat/Grappling\|Grappling]]. Contributes to melee attack accuracy.
 **Willpower** - Increases a character's hit points, improves [[Game Rules/Combat/Injury\|Injury]] threshold and ability to ignore pain, governs resistance to many debilitating and/or mental effects, and determines the raw amount of energy a mage can [[Game Rules/Magic/Magic, casting, & chanelling\|channel]] (but not their general magical skill.)
 **Reflex** - Improves a character's movement-related capabilities and governs dodging attacks. Contributes to melee attack accuracy.
