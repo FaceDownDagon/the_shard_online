@@ -4,7 +4,7 @@
 
 Attacking in the Shard comes in two major varieties: ranged, and melee. Ranged attacks are made by rolling Precision opposed by the target's Reflex. Melee attacks are made by rolling [[Game Rules/Basics/Attributes\|Melee Attack]], also opposed by the target's Reflex. 
 
-Ranged attacks and ranged damage are subject to a -1 penalty if the target is beyond ideal range (but within max range.) Ranged attacks are subject to a further -1 penalty if the target is behind cover (or has a shield, or is prone.)
+Ranged attacks and ranged damage are subject to a -1 penalty if the target is beyond ideal range (but within max range.) Ranged attacks are subject to a further -1 penalty if the target is behind cover (or has a shield, or is prone.) Finally, if a character makes a ranged attack while enemy characters are already in melee distance, that character suffers a -3 penalty to their reflex rolls to defend against each such opponent this turn.
 
 After rolling an attack, the attacker has many options, depending on the amount of [[Game Rules/Basics/Rolling Dice\|edge]] they rolled. Select one of the following results that you match or exceed the associated edge requirement of:
 

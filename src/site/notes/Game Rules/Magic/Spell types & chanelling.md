@@ -12,4 +12,4 @@ Charge is predominantly accrued passively at the end of each turn while in the c
 
 The channeling state lasts for ten turns, and the maximum charge a character can hold at one time is equal to their [[Game Rules/Basics/Attributes\|Willpower]]. Once the channeling state ends, you'll be fatigued for a while, and unable to enter the channeling state again. (This does not correspond to an exact time frame, but generally, it is for the remainder of any urgent scene. Entering a channeling state many times per day will cause long-term exhaustion.)
 
-When taking damage during channeling, you'll have to make a Willpower roll or lose charge: Subtract the number of result points you got on your Will roll from the damage, and lose charge points equal to the remainder.
+When taking damage during channeling, you'll have to make a Willpower roll or lose charge: Subtract the number of result points you got on your Will roll from the damage, and lose charge points equal to the remainder. Charge cannot drop below zero.
