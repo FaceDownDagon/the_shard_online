@@ -25,7 +25,7 @@ See [[Game Rules/Combat/Attacking\|Attacking]] for more information.
 
 
 4 - Magic casting. Characters utilize their spells to effect the battlefield. If a character took damage this turn, before this phase, they may suffer penalties to their ability to channel magic this turn. 
-See [[Game Rules/Magic/Magic, casting, & chanelling\|Magic, casting, & chanelling]] for more information.
+See [[Game Rules/Magic/Spell types & chanelling\|Spell types & chanelling]] for more information.
 
 5 - Miscellaneous actions. Any combat actions not included in another category occur here. This may include actions such as pulling an item from a pack, applying first aid, or operating a siege engine, though it is not limited to such things.
 

@@ -6,7 +6,7 @@ Characters in the Shard have the following attributes, which govern what that ch
 
 ##### Primary attributes
 **Strength** - Increases a character's hit points, governs most weapon damage (ranged and melee!), governs how much a character can lift or carry, and governs [[Game Rules/Combat/Grappling\|Grappling]]. Contributes to melee attack accuracy.
-**Willpower** - Increases a character's hit points, improves [[Game Rules/Combat/Injury\|Injury]] threshold and ability to ignore pain, governs resistance to many debilitating and/or mental effects, and determines the raw amount of energy a mage can [[Game Rules/Magic/Magic, casting, & chanelling\|channel]] (but not their general magical skill.)
+**Willpower** - Increases a character's hit points, improves [[Game Rules/Combat/Injury\|Injury]] threshold and ability to ignore pain, governs resistance to many debilitating and/or mental effects, and determines the raw amount of energy a mage can [[Game Rules/Magic/Spell types & chanelling\|channel]] (but not their general magical skill.)
 **Reflex** - Improves a character's movement-related capabilities and governs dodging attacks. Contributes to melee attack accuracy.
 **Precision** - Governs ranged attack accuracy, governs stealth, and governs tasks involving precise hand movements. Contributes to melee attack accuracy.
 **Attunement** - Governs most aspects of a character's ability to use magic to cast spells.
