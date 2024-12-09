@@ -4,15 +4,15 @@
 
 #### Handedness
 
-One-handed: This weapon is wielded in one hand.
+**One-handed:** This weapon is wielded in one hand.
 
-Two-handed: This weapon is wielded in both hands, and has a +1 bonus to dealing damage.
+**Two-handed:** This weapon is wielded in both hands, and has a +1 bonus to dealing damage.
 
-One-and-a-half-handed: This weapon can be wielded as if it were one-handed or two-handed, at the wielder's discretion. While wielded in two hands, it has a +1 bonus to deal damage, and the swift keyword.
+**One-and-a-half-handed:** This weapon can be wielded as if it were one-handed or two-handed, at the wielder's discretion. While wielded in two hands, it has a +1 bonus to deal damage, and the swift keyword.
 
-Half-handed: This hand that this weapon is in can still grip and hold other objects, but cannot effectively wield another weapon.
+**Half-handed:** This hand that this weapon is in can still grip and hold other objects, but cannot effectively wield another weapon.
 
-Non-handed: This weapon is used with a body part other than the hands, and therefore leaves the hands free.
+**Non-handed:** This weapon is used with a body part other than the hands, and therefore leaves the hands free.
 
 #### Draw type
 
@@ -33,7 +33,7 @@ Weapon on the floor: -3 (or -1 if prone)
 
 Damage modes represent the part of any weapon that actually hurts the foe. There are four damage modes that can result in three damage types: Thrusting, cutting, bashing, and spiked. It is not necessary to select one of these modes until such a time as you are about to deal damage. A few [[Game Rules/Techniques/Techniques\|Techniques]] will require a weapon that has a specific damage mode to be available on your weapon.
 
-**Thrusting/Spiked:** This weapon can deal piercing damage. When dealing piercing damage, the penalty to your damage roll from enemy armor is cut in half, but half of your damage (rounded down) is dealt in the form of [[Game Rules/Combat/Damage types\|bleed]]. The difference between thrusting and spiked is only relevant to certain techniques and other rules, but there is no difference at baseline. *(Thrusting weapons can deal their piercing damage via thrusts, while spiked weapons are swung in an arc, like a pickaxe.)*
+**Thrusting/Spiked:** This weapon can deal piercing damage. When dealing piercing damage, the penalty to your damage roll from enemy armor is cut in half, but half of your damage (rounded down) is dealt in the form of [[Game Rules/Combat/Damage types\|bleed]]. The difference between thrusting and spiked is only relevant to certain techniques and other rules, but there is no difference at baseline. *(Thrusting weapons deal their piercing damage via thrusts, while spiked weapons are swung in an arc, like a pickaxe.)*
 
 **Cutting:** This weapon can deal cutting damage. Cutting is the simplest form of damage: 100% of your damage is dealt as normal wounds, and you take the full normal penalty to your damage roll from enemy armor.
 
@@ -54,11 +54,11 @@ Damage modes represent the part of any weapon that actually hurts the foe. There
 
 **Throwing X:** This weapon is balanced and aerodynamic, such that it can be thrown effectively (used as a ranged attack.) Throwing weapon have an ideal range of X tiles and a maximum range of 2X tiles.
 
-**Embedding:** This weapon is designed to stick inside foes or their shields. It has a much greater chance to become stuck ([[Game Rules/Gear/Gear health & complications\|Gear health & complications]]).
+**Barbed:** This weapon is designed to stick inside foes or their shields. It has a much greater chance to become stuck ([[Game Rules/Gear/Gear health & complications\|Gear health & complications]]).
 
 **Innocuous:** This item is so mundane that it is often allowed where obvious weapons are not, and rarely arouses suspicion. No strict mechanical effect.
 
-**Parrying:** This weapon is of above-average usefulness for defending against melee attackers. It grants a +1 bonus to the [[Game Rules/Basics/Rolling Dice\|leading die]] of a reflex roll against melee attacks (but not ranged attacks.)
+**Parrying:** This weapon is of above-average usefulness for defending against melee attackers. It grants a +1 bonus reflex rolls against melee attacks (but not ranged attacks.)
 
 **Sweeping:** This weapon has a large striking area, better allowing a combatant to repulse multiple foes. The wielder reduces their reflex penalty for being outnumbered by one, to a minimum of zero.
 
@@ -72,9 +72,11 @@ Damage modes represent the part of any weapon that actually hurts the foe. There
 
 **Cover:** This shield offers a large protective barrier to hide behind. The wielder has permanent cover against ranged attacks.
 
+**Multihold X:** A character can hold X of this weapon in a single hand, but cannot attack effectively while holding multiple unless otherwise stated.
+
 **Missile:** This weapon fires a very fast projectile. Characters who lack cover have a -2 penalty to their reflex rolls to defend missile attacks.
 
-**Ranged X:** This is a dedicated ranged weapon. If a character uses this weapon in melee, do no use this profile; instead, model it as an appropriate [[Improvised Weapons\|Improvised weapon]]. This weapon has an ideal range of X tiles and a maximum range of 2X tiles.
+**Ranged X:** This is a dedicated ranged weapon. If a character uses this weapon in melee, do no use this profile; instead, model it as an appropriate [[Game Rules/Gear/Weapon list\|Improvised weapon]]. This weapon has an ideal range of X tiles and a maximum range of 2X tiles.
 
 **Prone use:** This weapon can be used without penalty while [[Game Rules/Combat/Conditions\|prone]].
 

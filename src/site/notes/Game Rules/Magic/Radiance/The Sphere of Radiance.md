@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-rules/magic/radiance/the-sphere-of-radiance/","tags":["review"]}
+{"dg-publish":true,"permalink":"/game-rules/magic/radiance/the-sphere-of-radiance/"}
 ---
 
 The Sphere of Radiance consists of the disciplines of [[Game Rules/Magic/Radiance/Flame (discipline)\|Flame]] and [[Game Rules/Magic/Radiance/Light (discipline)\|Light]]. The conjunctive disciplines of Fire are those of [[Game Rules/Magic/Conjunctive Disciplines/Lightning (discipline)\|Lightning]] (shared with [[Game Rules/Magic/Storm/The Sphere of Storm\|The Sphere of Storm]],) and [[Game Rules/Magic/Conjunctive Disciplines/Corrosion (discipline)\|Corrosion]] (shared with [[Game Rules/Magic/Blood/The Sphere of Blood\|The Sphere of Blood]].) 

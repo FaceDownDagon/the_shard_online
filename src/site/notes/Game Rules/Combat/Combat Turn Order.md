@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-rules/combat/combat-turn-order/","tags":["review"]}
+{"dg-publish":true,"permalink":"/game-rules/combat/combat-turn-order/"}
 ---
 
 When playing a combat scenario in the Shard, the actions of players and foes can be broken down into several phases, which occur in the following order:
@@ -17,7 +17,7 @@ Instead of making an attack immediately, a character may instead elect to declar
 See [[Game Rules/Combat/Attacking\|Attacking]] for more information. 
 
 2 - Movement. Characters reposition themselves across the battlefield. This phase is resolved in order of Agility.
-Instead of moving normally, a character may instead declare intercept, moving in reaction to selected enemies to engage and block their movement into a declared area. {Intercept is experimental.}
+Instead of moving normally, a character may instead declare intercept, moving in reaction to selected enemies to engage and block their movement into a declared area.
 See [[Game Rules/Combat/Movement\|Movement]] for more information.
 
 3 - Melee attacks. Characters trade blows with close-ranged weaponry. This phase is resolved in order of weapon reach. However, the DM can elect to resolve attacks within any entire group of engaged creatures before moving on to other groups, so long as this obeys weapon reach order for any characters engaged with one another.

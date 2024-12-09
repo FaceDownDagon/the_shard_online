@@ -10,11 +10,13 @@ Poleaxe: Two-handed. Held/secured. Reach 3, thrusting, brace. Select two of the 
 
 Pike: Two-handed. Held/secured. Reach 4, thrusting, brace. Optional modifications: Improve reach to 5, but add Unwieldy.
 
-Spear: One-and-a-half-handed. Held/secured. Reach 3, thrusting, brace. Optional modifications: Add Fragile and Throwing 10, and/or add Embedding.
+Spear: One-and-a-half-handed. Held/secured. Reach 3, thrusting, brace.
+
+Javelin: One-and-a-half-handed. Held/secured. Reach 3, thrusting, brace, fragile, throwing 10, multihold 3.
 
 Staff: Two-handed. Held/secured. Reach 3, bashing +1, parrying, sweeping, innocuous, swift.
 
-Glaive/Greatsword: Two-handed. Held/secured. Reach 3, cutting +1, thrusting, sweeping.
+Glaive: Two-handed. Held/secured. Reach 3, cutting +1, thrusting, sweeping.
 
 #### Other large weapons
 
@@ -26,13 +28,15 @@ Oversized greatweapon: Two-handed. Held/secured. Reach 2, unwieldy, unbalancing.
 
 #### One-handed weapons
 
-Rapier: One-handed. Draw -1. Reach 2, thrusting, cutting -1, parrying, swift.
-
 Tomahawk: One-handed. Draw -2. Reach 1, cutting +1, spiked, hooked, throwing 5, inaccurate.
 
-Mace: One-handed. Draw -2. Reach 1, bashing +2, sturdy. Optional modifications: spiked.
+ War pick: One-handed. Draw -2. Reach 2, spiked +1, hooked, bashing +1.
+
+Mace: One-handed. Draw -2. Reach 1, bashing +2, sturdy. Optional modifications: Add spiked.
 
 Boomerang: One-handed. Draw -2. Reach 1, bashing +1, throwing 10. Optional modifications: Add sturdy, throwing becomes throwing 5.
+
+Rapier: One-handed. Draw -1. Reach 2, thrusting, cutting -1, parrying, swift.
 
 Saber: One-handed. Draw -1. Reach 2, cutting, thrusting -1, parrying, swift.
 
@@ -44,7 +48,7 @@ Dagger: One-handed. Draw -1. Reach 0, thrusting, cutting -1, swift. Select one o
 
 Strapped shield: Half-handed. Worn. Reach 0, bashing -1, blocking, cover, awkward, attached.
 
-Gripped shield: One-handed. Held/secured. Reach 1, bashing, blocking, cover.
+Center-grip shield: One-handed. Held/secured. Reach 1, bashing, blocking, cover.
 
 Buckler: One-handed. Draw -2. Reach 0, bashing +1, blocking, sturdy. Optional modifications: spiked -1.
 
@@ -56,7 +60,7 @@ Foot kick: Non-handed. Always available. Reach 1, bashing -1, attached, unbalanc
 
 ####  Assassin's weapons
 
-Darts: One-handed. Draw -1. Reach 0, thrusting, throwing 5, concealable, awkward, tiny. Optional modifications: Remove thrusting, add cutting to model throwing stars.
+Darts: One-handed. Draw -1. Reach 0, thrusting, throwing 5, concealable, awkward, tiny, multihold 4. Optional modifications: Remove thrusting, add cutting to model throwing stars.
 
 #### Bows & slings
 
