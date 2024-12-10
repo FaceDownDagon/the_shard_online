@@ -10,7 +10,7 @@
 
 **One-and-a-half-handed:** This weapon can be wielded as if it were one-handed or two-handed, at the wielder's discretion. While wielded in two hands, it has a +1 bonus to deal damage, and the swift keyword.
 
-**Half-handed:** This hand that this weapon is in can still grip and hold other objects, but cannot effectively wield another weapon.
+**Half-handed:** The hand that this weapon is in can still grip and hold other objects, but cannot effectively wield another weapon.
 
 **Non-handed:** This weapon is used with a body part other than the hands, and therefore leaves the hands free.
 
@@ -24,7 +24,7 @@
 
 **Worn:** This weapon is part of the wielder's armor. So long as they are wearing the associated armor, and the associated limbs are available, this weapon can be used.
 
-**Grabbed:** This improvised weapon is typically seized from the environment, rather than kept on one's person. If at hand, a potential wielder can pick it up and attack with it in a single turn, but the GM determines the penalty for doing so, based on the item's position. Weapons without a this quality can be grabbed in the exact same way, if they are laying loose in the environment.
+**Grabbed:** This improvised weapon is typically seized from the environment, rather than kept on one's person. If at hand, a potential wielder can pick it up and attack with it in a single turn, but the GM determines the penalty for doing so, based on the item's position. Weapons without this quality can be grabbed in the exact same way, if they are laying loose in the environment.
 Guidelines: 
 Weapon at waist height: -1 
 Weapon on the floor: -3 (or -1 if prone)
@@ -46,7 +46,7 @@ Damage modes represent the part of any weapon that actually hurts the foe. There
 **Reach X:** The [[Game Rules/Combat/Combat Turn Order\|order]] in which melee combat is conducted is determined by the weapon reach of the highest reach weapon each character is holding: higher reach goes first.
 #### Other keywords
 
-**Brace:** When using this weapon, if either you or the enemy moved two or more tiles towards the other this turn, add a +1 bonus to your damage rolls on thrusting attacks this turn.
+**Brace:** When using this weapon, if either you or the enemy moved two or more tiles towards the other this turn, add a +1 bonus to your damage rolls on thrusting attacks this turn. If eight or more tiles were moved in a direct line, add +2 instead.
 
 **Hooked:** This weapon can hook your opponent or their weapons. If you [[Game Rules/Combat/Attacking\|snag]] a foe, you don't take a penalty to your grapple role for lacking free hands, and you may choose to end the grapple for free after your grapple action is resolved.
 
@@ -76,11 +76,11 @@ Damage modes represent the part of any weapon that actually hurts the foe. There
 
 **Missile:** This weapon fires a very fast projectile. Characters who lack cover have a -2 penalty to their reflex rolls to defend missile attacks.
 
-**Ranged X:** This is a dedicated ranged weapon. If a character uses this weapon in melee, do no use this profile; instead, model it as an appropriate [[Game Rules/Gear/Weapon list\|Improvised weapon]]. This weapon has an ideal range of X tiles and a maximum range of 2X tiles.
+**Ranged X:** This is a dedicated ranged weapon. If a character uses this weapon in melee, do not use this profile; instead, model it as an appropriate [[Game Rules/Gear/Weapon list\|Improvised weapon]]. This weapon has an ideal range of X tiles and a maximum range of 2X tiles.
 
 **Prone use:** This weapon can be used without penalty while [[Game Rules/Combat/Conditions\|prone]].
 
-**Entangling:** When thrown, this weapon can snag an opponent's gear or body. {It does stuff.}
+**Entangling:** When thrown, this weapon can snag an opponent's gear or body. {It does stuff/placeholder.}
 
 #### Negative keywords
 
