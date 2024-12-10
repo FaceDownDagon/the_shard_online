@@ -6,13 +6,13 @@ The following is a short list of common weapon types. Note that each entry is a 
 
 #### Polearms
 
-Poleaxe: Two-handed. Held/secured. Reach 3, thrusting, brace. Select two of the following: Cutting +1, bashing +2, or hooked AND spiked +1. Optional modifications: Improve reach to 4, but add Unwieldy.
+Poleaxe/Crowsbeak: Two-handed. Held/secured. Reach 3, thrusting, brace. Select two of the following: Cutting +1, bashing +2, or hooked AND spiked +1. Optional modifications: Improve reach to 4, but add Unwieldy.
 
 Pike: Two-handed. Held/secured. Reach 4, thrusting, brace. Optional modifications: Improve reach to 5, but add Unwieldy.
 
 Spear: One-and-a-half-handed. Held/secured. Reach 3, thrusting, brace.
 
-Javelin: One-and-a-half-handed. Held/secured. Reach 3, thrusting, brace, fragile, throwing 10, multihold 3.
+Javelin: One-and-a-half-handed. Held/secured. Reach 3, thrusting, brace, fragile, throwing 10 (one-handed only), multihold 3.
 
 Staff: Two-handed. Held/secured. Reach 3, bashing +1, parrying, sweeping, innocuous, swift.
 
@@ -30,7 +30,7 @@ Oversized greatweapon: Two-handed. Held/secured. Reach 2, unwieldy, unbalancing.
 
 Tomahawk: One-handed. Draw -2. Reach 1, cutting +1, spiked, hooked, throwing 5, inaccurate.
 
- War pick: One-handed. Draw -2. Reach 2, spiked +1, hooked, bashing +1.
+Hammer-axe: One-handed. Draw -2. Reach 1, cutting +1, bashing +2, hooked. Optional modifications: Replace cutting +1 with spiked +1 to model a war pick.
 
 Mace: One-handed. Draw -2. Reach 1, bashing +2, sturdy. Optional modifications: Add spiked.
 
@@ -39,8 +39,6 @@ Boomerang: One-handed. Draw -2. Reach 1, bashing +1, throwing 10. Optional modif
 Rapier: One-handed. Draw -1. Reach 2, thrusting, cutting -1, parrying, swift.
 
 Saber: One-handed. Draw -1. Reach 2, cutting, thrusting -1, parrying, swift.
-
-Hook sword: One-handed. Draw -2. Reach 2, cutting, hooked, parrying, swift.
 
 Dagger: One-handed. Draw -1. Reach 0, thrusting, cutting -1, swift. Select one of the following: Sturdy, concealable, parrying.
 
@@ -85,3 +83,7 @@ Broom: One-and-a-half-handed. Grabbed. Reach 2, bashing, parrying, sweeping, inn
 Heavy tool: Two-handed. Grabbed. Reach 1, unwieldy, unbalancing. Select one as appropriate: Cutting +1, bashing +2, or spiked +1. Use to model sledgehammers, mining pickaxes, or similar anti-material tools.
 
 Cloak: One-handed. Grabbed. Reach 0, parrying, hooked, vulnerable, innocuous, thrown 1, entangling. Use for cloth items.
+
+#### Unusual weapons
+
+Hook sword: One-handed. Draw -2. Reach 2, cutting, hooked, parrying, swift.
