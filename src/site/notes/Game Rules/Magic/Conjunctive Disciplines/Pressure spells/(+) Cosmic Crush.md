@@ -14,4 +14,4 @@ Effect:** The target receives damage and penalties based on the result of the op
 - Zero edge: No movement, -4 penalty to reflex rolls and attack rolls. 
 - Positive edge: Prone and paralyzed. Inflict 1 wound per edge per turn.
 Optionally, the caster can spend their action next turn to attempt a new roll, and applies that result if better.
-**Duration: 2 turns**
+**Duration: 2 turns (Sustained)**
