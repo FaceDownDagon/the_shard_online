@@ -16,7 +16,7 @@ Javelin: One-and-a-half-handed. Held/secured. Reach 3, thrusting, brace, fragile
 
 Staff: Two-handed. Held/secured. Reach 3, bashing +1, parrying, sweeping, innocuous, swift.
 
-Glaive: Two-handed. Held/secured. Reach 3, cutting +1, thrusting, sweeping.
+Glaive: Two-handed. Held/secured. Reach 3, cutting +1, thrusting, sweeping, swift.
 
 #### Other large weapons
 
