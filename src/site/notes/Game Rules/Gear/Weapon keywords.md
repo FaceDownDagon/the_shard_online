@@ -96,6 +96,6 @@ Damage modes represent the part of any weapon that actually hurts the foe. There
 
 **Unbalancing:** This weapon is overly commital, allowing for opponents to make easy counterattacks. After attacking with this weapon, the wielder suffers a -1 penalty to reflex rolls until the start of the next turn.
 
-**Unwieldy:** This weapon is long or bulky enough to require a planted stance to use properly. Take a -1 penalty to attack on any turn where you moved more than a single tile.
+**Unwieldy:** This weapon is long or bulky enough to require a planted stance to use properly. Take a -1 penalty to attack on any turn where you moved more than a single tile. If you attack in the ranged phase, instead take a -2 penalty to speed this turn.
 
 **Fragile:** This weapon is more susceptible to breaking than usual. It has only a single hit point, and a greater chance to incur a breakage ([[Game Rules/Gear/Gear health & complications\|Gear health & complications]]).
