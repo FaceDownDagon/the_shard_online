@@ -16,7 +16,7 @@ Unless a rule states otherwise, each character can act in one of these phases, p
 Instead of making an attack immediately, a character may instead elect to declare overwatch, storing their ranged attack for when (and if) selected enemies enter some declared area during movement.
 See [[Game Rules/Combat/Attacking\|Attacking]] for more information. 
 
-2 - Movement. Characters reposition themselves across the battlefield. This phase is resolved in order of Agility.
+2 - Movement. Characters reposition themselves across the battlefield. This phase is resolved in order of Reflex.
 Instead of moving normally, a character may instead declare intercept, moving in reaction to selected enemies to engage and block their movement into a declared area.
 See [[Game Rules/Combat/Movement\|Movement]] for more information.
 

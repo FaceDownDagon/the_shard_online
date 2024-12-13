@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/game-rules/magic/the-five-spheres-of-magic/"}
 ---
 
-Scholars and sages have long debated the nature of magic. As a force which, in its natural form, is entirely intangible, magic can only be studied indirectly. Nonetheless, sorcerous tradition flourishes in the Shard, and mages ply their craft both in peace and in war. 
+Scholars and sages have long debated the nature of magic. In its natural form, magic is entirely intangible, and can only be studied indirectly. Nonetheless, sorcerous tradition flourishes in the Shard, and mages ply their craft both in peace and in war. 
 
 Some things can be said for certain. Magic energy permeates the world itself, but must be harnessed by the body to take form. The magical ability of a sorcerer or sorceress can be strengthened by practice, and the precision of the spells they render can be honed and refined. It is clear that something in the body itself allows for this - the veins of a mage suffering fatigue after extensive casting will often darken extensively - but accessing the ability for magic is less intuitive than learning how to control one's own muscles, and a fair bit more complex. 
 
