@@ -9,7 +9,7 @@ Ranged attacks and ranged damage are subject to a -1 penalty if the target is be
 After rolling an attack, the attacker has many options, depending on the amount of [[Game Rules/Basics/Rolling Dice\|edge]] they rolled. Select one of the following results that you match or exceed the associated edge requirement of:
 
 **Negative edge:**
-- Jockey: Move one tile of your choice away from your foe, to either side, or to the diagonals in between.
+- Jockey: Move one tile of your choice to either side of your foe, maintaining your current distance.
 **Zero edge:**
 - Feint (Melee only): If you attack the same foe next turn, they have a -1 penalty on that reflex roll. (-2 with a [[Game Rules/Gear/Weapon keywords\|swift]] weapon.)
 - Dial in (Ranged only): If you attack the same foe next turn, you gain a +1 bonus on that attack roll.

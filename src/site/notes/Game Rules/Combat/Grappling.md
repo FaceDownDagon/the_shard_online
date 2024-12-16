@@ -12,10 +12,13 @@ Based on the result of the roll, select one of the following results that you ma
 
 **Zero edge:**
 - Escape: The grapple ends.
+- Regrip: Gain a +1 bonus to your next offensive grapple roll against the opponent next turn, if the grapple continues.
+
 **One edge:**
 - Takedown: Both you and the opponent become prone.
 - Drag: Cannot be used if prone. You may move one tile. You may then move your opponent one tile, but they must end adjacent to you.
 - Pummel: Make a melee attack, with the exception that the reach of your weapon is subtracted as a penalty from your attack roll, and your opponent suffers a -2 penalty to their reflex roll to defend. (You cannot use the result to initiate another grapple.)
+
 **Two edge:**
 - Throw: You must be standing to use this option. Place your opponent prone in any adjacent space of your choice, and optionally, end the grapple.
 - Wrest: Seize an item from your opponent's hands, or at the GM's discretion, from somewhere else accessible on their body. If you have a hand free, you may hold it, otherwise, it is dropped in an adjacent square of your choice.
