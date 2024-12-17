@@ -12,7 +12,7 @@ After rolling an attack, the attacker has many options, depending on the amount 
 - Jockey: Move one tile of your choice to either side of your foe, maintaining your current distance.
 **Zero edge:**
 - Feint (Melee only): If you attack the same foe next turn, they have a -1 penalty on that reflex roll. (-2 with a [[Game Rules/Gear/Weapon keywords\|swift]] weapon.)
-- Dial in (Ranged only): If you attack the same foe next turn, you gain a +1 bonus on that attack roll.
+- Dial in (Ranged only): If you attack the same foe next turn and they didn't move, you gain a +1 bonus on that attack roll.
 - Ward off (Melee only): The foe has a penalty on its next attack against you this turn, equal to the difference in reach. (Useless if your foe attacks before you in the [[Game Rules/Combat/Combat Turn Order\|Combat Turn Order]].)
 - Smash: Roll damage, but directly against one of the opponents' weapons, not the opponent. (If the opponent has no weapons with which to defend themself except those with the vulnerable keyword, roll damage against the opponent at a -1 penalty.)
 - Enter a grapple (Melee only): You close in tightly with your opponent, opening up a slew of new options based on an opposed Strength roll. See [[Game Rules/Combat/Grappling\|Grappling]]. You do not get a grapple roll this turn.
