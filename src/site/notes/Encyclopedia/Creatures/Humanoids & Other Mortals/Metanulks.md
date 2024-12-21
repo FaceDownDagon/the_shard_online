@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/encyclopedia/creatures/humanoids-and-other-mortals/metanulks/"}
 ---
 
-Metanulks are an artificial race created by the [[Encyclopedia/Creatures/Deities and Demigods/Golyaht\|Mad god]]. Metanulks are sexless constructs made primarily of of marble and bronze, often decorated with precious materials such as pearls, gold, or silver. As a personal vanity project of Golyaht, they are very elegant and shapely, and primarily served as servile clergy at shrines, leystones, and other structures from the early days of the Shard. While no new Metanulks have been made since then, many have persisted to the current day.
+Metanulks are an artificial race created by the [[Encyclopedia/Creatures/Deities and Demigods/Golyaht\|Mad god]]. Metanulks are sexless constructs made primarily out of marble and bronze, often decorated with precious materials such as pearls, gold, or silver. As a personal vanity project of Golyaht, they are very elegant and shapely, and primarily served as servile clergy at shrines, leystones, and other structures from the early days of the Shard. While no new Metanulks have been made since then, many have persisted to the current day.
 
 Metanulks are fully sentient, yet are often very rigid in their thinking. They were created by a narcissistic god to be the perfect servants, and many still meticulously follow the rituals of their old stations. Metanulks are typically hesitant to abandon their posts, and most who do so are motivated by disappointment in the failings of their creator and his goals.
 

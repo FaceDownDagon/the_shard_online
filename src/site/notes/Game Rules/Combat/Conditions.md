@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-rules/combat/conditions/","tags":["stub"]}
+{"dg-publish":true,"permalink":"/game-rules/combat/conditions/","tags":["incomplete"]}
 ---
 
 Here are some of the conditions may befall your character during combat, and their effects. {Partial/incomplete list!}
