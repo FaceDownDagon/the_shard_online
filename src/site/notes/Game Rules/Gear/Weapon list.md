@@ -66,7 +66,7 @@ Warbow: Two-handed. Held/secured. Ranged 15, thrusting, missile, unwieldy. Optio
 
 Light crossbow: One-handed shooting, two-handed reloading. Held/secured. Ranged 15, thrusting, missile, reload (1 action), prone use. Optional modifications: Reload becomes reload (fast), but ranged becomes ranged 15.
 
-Heavy crossbow: Two-handed. Held/secured. Ranged 20, thrusting +1, missile, reload (2 actions+movements), prone use.
+Heavy crossbow: Two-handed. Held/secured. Ranged 20, thrusting +1, missile, reload (1 action+movement), prone use.
 
 Sling: One-handed shooting, two-handed reloading. Draw -3. Ranged 15, bashing +1, missile, concealable, inaccurate, reload (fast).
 
