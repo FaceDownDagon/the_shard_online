@@ -11,7 +11,7 @@ Similarly, an average Nurilith is not a modest creature. Male Nuriliths are not 
 One of the more odd traits of this race is their ability to vomit sticky acid at a distance. One of their many stomachs is adapted to always fill with this clinging corrosive, which they can expel at moderate ranges.
 
 As a young race, Nuriliths largely integrated into the existing societies and cultures of the Shard. Small numbers of them can be found all over the shard, though their physiology cannot abide arid or freezing environments. Most commonly, they take up roles as merchants, financiers, or managers in urban centers; social positions which they've earned very quickly considering the lack of inherited resources. Due to their excellent vision in darkness, they are also amongst the races that may live comfortably in the Shard's [[Encyclopedia/Atlas (Regions)/Underpaths\|Underpaths]].
-![Pasted image 20241226031108.jpg](/img/user/Pasted%20image%2020241226031108.jpg)
+![Pasted image 20241226031108.jpg](/img/user/Images/Pasted%20image%2020241226031108.jpg)
 ### Game effects
 Elemental alignment: Always blood.
 Movement: 2 tiles (Polypedal, female) or 3 tiles (Polypedal, male)
