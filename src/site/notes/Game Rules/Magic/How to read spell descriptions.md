@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/game-rules/magic/how-to-read-spell-descriptions/"}
 ---
 
-Example spell: [[Game Rules/Magic/Conjunctive Disciplines/Pressure spells/(+) Cosmic Crush\|(+) Cosmic Crush]].
+Example spell: [[Game Rules/Magic/Conjunctive Disciplines/Gravity spells/(+) Cosmic Crush\|(+) Cosmic Crush]].
 
 ***Major spell*** - Defines whether a spell is major or minor. ([[Game Rules/Magic/Spell types & chanelling\|Spell types & chanelling]])
 ***Charge cost: 5*** - Defines how much charge mist be expended to cast this major spell. Skipped for minor spells.

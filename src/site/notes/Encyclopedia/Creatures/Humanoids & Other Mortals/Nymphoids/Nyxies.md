@@ -24,5 +24,5 @@ Extra senses: Arcane.
 Attribute bonuses: +1 Willpower.
 Boons: Select one, based on gemstone: {Perceptive}, [[Game Rules/Boons/Attribute boons/Vigor\|Vigor]], [[Game Rules/Boons/Attribute boons/Capacitance\|Capacitance]], or {resistant}.
 Other abilities: 
-- Devour Magic: Nyxies automatically know the [[Game Rules/Magic/Void/Purgation spells/(-) Dispel\|Dispel]] spell. When a nyxie successfully dispels magic from adjacent range, she may consume it, gaining her choice of +1 charge, or +1 on strength rolls next turn (including damage rolls.)
+- Devour Magic: Nyxies automatically know the [[Game Rules/Magic/Void/Oblivion spells/(-) Dispel\|Dispel]] spell. When a nyxie successfully dispels magic from adjacent range, she may consume it, gaining her choice of +1 charge, or +1 on strength rolls next turn (including damage rolls.)
 - Crystalmancy: Nyxies can learn spells from the [[Game Rules/Magic/Earth/Construction (discipline)\|Construction discipline]] as if it were within their sphere. However, they may only use spells and modes of spells that create [[Encyclopedia/Objects/Materials/Mage-glass\|mage-glass]].
