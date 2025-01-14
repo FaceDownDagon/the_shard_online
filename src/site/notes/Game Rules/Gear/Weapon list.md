@@ -6,7 +6,7 @@ The following is a short list of common weapon types. Note that each entry is a 
 
 #### Polearms
 
-Poleaxe: Two-handed. Held/secured. Reach 3, thrusting, brace. Select two of the following: Cutting +1, bashing +2, or hooked AND spiked +1. Optional modifications: Improve reach to 4, but add Unwieldy.
+Poleaxe: Two-handed. Held/secured. Reach 3, thrusting, brace, hooked. Select two of the following: Cutting +1, bashing +2, or spiked +1. Optional modifications: Improve reach to 4, but add Unwieldy.
 
 Pike: Two-handed. Held/secured. Reach 4, thrusting, brace. Optional modifications: Improve reach to 5, but add Unwieldy.
 
