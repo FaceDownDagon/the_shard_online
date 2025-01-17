@@ -14,7 +14,7 @@ Spell attack keywords are similar to [[Game Rules/Gear/Weapon keywords\|Weapon k
 
 **Bashing, cutting, thrusting, spiked:** Exactly as the [[Game Rules/Gear/Weapon keywords\|Weapon keywords]] of the same names.
 
-**Toxic:** This spell attack deals all of its damage as [[Game Rules/Combat/Damage types\|Bleed]]. It takes the full normal penalty from enemy armor, unless another keyword alters this.
+**Toxic:** This spell attack deals all of its damage as [[Game Rules/Combat/Damage types\|Bleed]]. Reduce the damage penalty from enemy armor by half.
 
 **Fire:** This spell attack deals half of its damage as [[Game Rules/Combat/Damage types\|Bleed]]. It ignores enemy armor entirely.
 
@@ -27,9 +27,9 @@ Spell attack keywords are similar to [[Game Rules/Gear/Weapon keywords\|Weapon k
 **... +X/-X:** When dealing damage using a mode with a numerical modifier, modify the roll by this amount.
 #### Other keywords
 
-**Liquid:** If this spell attack would normally be subject to an enemy armor penalty, reduce that penalty by half. (If the armor penalty was already half, reduce it by half again, rounding down; -2 would become 0, and -4 would become -1.)
+**Instant:** This spell attack happens instantaneously, leaving no time to respond. Characters have a -2 penalty to their reflex rolls to defend instant attacks.
 
 **Energy:** This spell attack has no material substance. Characters who lack cover have a -2 penalty to their reflex rolls to defend energy attacks.
 
-**Muscle:** This spell uses strength to calculate damage, rather than attunement.
+**Flinch:** This spell attack inflicts a penalty to the victims attack rolls, spellcasting rolls, and willpower rolls to maintain focus. The penalty is equal to the shock damage dealt, and lasts until the end of this turn.
 
