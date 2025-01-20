@@ -12,6 +12,6 @@ The conjunctive discipline between Earth and Blood is the discipline of Wood. De
 
 The discipline juxtaposed between the Sphere of Void and the Sphere of Earth is that of Gravity. These spells include weighing down foes, sucking things towards a point, as well as the the ability to compress and temporarily shrink items. 
 
-The focus component of Earth is hand and arm motions. With these, casting Earth magic becomes much easier.
+The focus component of Earth is hand and arm motions. Earth magic, unlike most spheres, typically uses both hands when casting. With this, casting Earth magic becomes much easier.
 
 ![EarthSymbol.jpeg](/img/user/Images/EarthSymbol.jpeg)

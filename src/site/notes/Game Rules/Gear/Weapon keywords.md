@@ -16,7 +16,7 @@
 
 #### Draw type
 
-**Draw -X:** This weapon can be drawn to hand and used to attack in the same turn. The attack suffers a -X penalty.
+**Draw -X:** This weapon can be drawn to hand and used to attack in the same turn. The attack suffers a -X penalty. (You can draw a weapon at the start of the melee phase, which allows you to defend even if your reach is less than the foe's.)
 
 **Held/secured:** This weapon is too large to be stored in a way that is readily accessible. Either the wielder keeps the weapon in hand, puts it down, or ties it to their back in a way that takes an entire miscellaneous action to draw.
 
@@ -48,7 +48,7 @@ Damage modes represent the part of any weapon that actually hurts the foe. There
 
 **Brace:** When using this weapon, if either you or the enemy moved two or more tiles towards the other this turn, add a +1 bonus to your damage rolls on thrusting attacks this turn. If eight or more tiles were moved in a direct line, add +2 instead.
 
-**Hooked:** This weapon can hook your opponent or their weapons. If you [[Game Rules/Combat/Attacking\|snag]] a foe, you don't take a penalty to your grapple role for lacking free hands, and you may choose to end the grapple for free after your grapple action is resolved.
+**Hooked:** This weapon can hook your opponent or their weapons. If you [[Game Rules/Combat/Attacking\|snag]] a foe, you don't take a penalty to your grapple roll for lacking free hands, and you may choose to end the grapple for free after your grapple action is resolved.
 
 **Sturdy:** This weapon has a foolproof construction. It has doubled hit points, and cannot incur breakage complications by attacking ([[Game Rules/Gear/Gear health & complications\|Gear health & complications]]).
 
@@ -58,7 +58,7 @@ Damage modes represent the part of any weapon that actually hurts the foe. There
 
 **Innocuous:** This item is so mundane that it is often allowed where obvious weapons are not, and rarely arouses suspicion. No strict mechanical effect.
 
-**Parrying:** This weapon is of above-average usefulness for defending against melee attackers. It grants a +1 bonus reflex rolls against melee attacks (but not ranged attacks.)
+**Parrying:** This weapon is of above-average usefulness for defending against melee attackers. It grants a +1 bonus to reflex rolls against melee attacks (but not ranged attacks.)
 
 **Sweeping:** This weapon has a large striking area, better allowing a combatant to repulse multiple foes. The wielder reduces their reflex penalty for being outnumbered by one, to a minimum of zero.
 
@@ -94,7 +94,7 @@ Damage modes represent the part of any weapon that actually hurts the foe. There
 
 **Vulnerable:** This weapon is a living part of the wielder's body, or leaves the user's body exposed during use. If damage would be dealt to this weapon, instead resolve that damage against the wielder at a -1 penalty.
 
-**Unbalancing:** This weapon is overly commital, allowing for opponents to make easy counterattacks. After attacking with this weapon, the wielder suffers a -1 penalty to reflex rolls until the start of the next turn.
+**Unbalancing:** This weapon is overly commital, allowing for opponents to make easy counterattacks. After attacking with this weapon, the wielder suffers a -1 penalty to reflex rolls until the next time they could attack. *(A reach 2 unbalancing weapon, for example, would receive this penalty until the part of next turn's melee phase where reach 2 attacks resolve.)*
 
 **Unwieldy:** This weapon is long or bulky enough to require a planted stance to use properly. Take a -1 penalty to attack on any turn where you moved more than a single tile. If you attack in the ranged phase, instead take a -2 penalty to speed this turn.
 
