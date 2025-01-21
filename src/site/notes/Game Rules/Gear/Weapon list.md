@@ -44,11 +44,12 @@ Dagger: One-handed. Draw -1. Reach 0, thrusting, cutting -1, swift. Select one o
 
 #### Shields
 
-Strapped shield: Half-handed. Worn. Reach 0, bashing -1, blocking, cover, awkward, attached.
+Large shield: Can be wielded center-grip or strapped to the arm, using one of the following profiles. Unlike a modification, a shield can alternate between both.
+*Center-grip:* One-handed. Held/secured. Reach 1, bashing, blocking, cover 2. 
+*Strapped:* Half-handed. Worn. Reach 0, bashing, blocking, cover 2, awkward, attached.
+Optional modifications: spiked -1 *(in either mode.)*
 
-Center-grip shield: One-handed. Held/secured. Reach 1, bashing, blocking, cover.
-
-Buckler: One-handed. Draw -2. Reach 0, bashing +1, blocking, sturdy. Optional modifications: spiked -1.
+Buckler: One-handed. Draw -2. Reach 0, bashing +1, blocking, cover 1, sturdy. Optional modifications: spiked -1.
 
 #### Unarmed attacks
 
@@ -56,20 +57,19 @@ Bare fist: One-handed. Always available. Reach 0, bashing -1, hooked, attached, 
 
 Foot kick: Non-handed. Always available. Reach 1, bashing -1, attached, unbalancing, vulnerable.
 
-####  Assassin's weapons
-
-Darts: One-handed. Draw -1. Reach 0, thrusting, throwing 5, concealable, awkward, tiny, multihold 4. Optional modifications: Remove thrusting, add cutting to model throwing stars.
-
 #### Bows & slings
 
-Warbow: Two-handed. Held/secured. Ranged 15, thrusting, missile, unwieldy. Optional modifications: Remove unwieldy, but ranged becomes ranged 10.
+Warbow: Two-handed. Held/secured. Ranged 15, thrusting, missile, unwieldy.
 
-Light crossbow: One-handed shooting, two-handed reloading. Held/secured. Ranged 15, thrusting, missile, reload (1 action), prone use. Optional modifications: Reload becomes reload (fast), but ranged becomes ranged 15.
+Repeating crossbow: Two-handed. Held/secured. Ranged 10, thrusting -1, missile, prone use. 
 
-Heavy crossbow: Two-handed. Held/secured. Ranged 20, thrusting +1, missile, reload (1 action+movement), prone use.
+Arbalest: Two-handed. Held/secured. Ranged 15, thrusting +2, missile, reload (1 action), prone use.
 
-Sling: One-handed shooting, two-handed reloading. Draw -3. Ranged 15, bashing +1, missile, concealable, inaccurate, reload (fast).
+Sling: One-handed. Draw -3. Ranged 15, bashing +1, missile, concealable, inaccurate, reload (free hand).
 
+#### Assassin's weapons
+
+Darts: One-handed. Draw -1. Reach 0, thrusting, throwing 5, concealable, awkward, tiny, multihold 4. Optional modifications: Remove thrusting, add cutting to model throwing stars.
 #### Improvised weapons
 
 Rock: One-handed. Grabbed. Reach 0, bashing +1, sturdy, awkward, vulnerable, thrown 5. Use to model rocks and other stubby, heavy objects small enough to hold in one hand.

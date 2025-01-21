@@ -70,11 +70,11 @@ Damage modes represent the part of any weapon that actually hurts the foe. There
 
 **Blocking:** This weapon or shield excels in defense. The wielder gains a +1 bonus to reflex rolls to defend against all attacks.
 
-**Cover:** This shield offers a large protective barrier to hide behind. The wielder has permanent cover against ranged attacks.
+**Cover X:** This shield offers a protective barrier to hide behind. The wielder has permanent cover against ranged attacks. The penalty ranged attackers take is equal to X.
 
 **Multihold X:** A character can hold X of this weapon in a single hand, but cannot attack effectively while holding multiple unless otherwise stated.
 
-**Missile:** This weapon fires a very fast projectile. Characters who lack cover have a -2 penalty to their reflex rolls to defend missile attacks.
+**Missile:** This weapon fires a very fast projectile. Characters have a -2 penalty to their reflex rolls to defend missile attacks.
 
 **Ranged X:** This is a dedicated ranged weapon. If a character uses this weapon in melee, do not use this profile; instead, model it as an appropriate [[Game Rules/Gear/Weapon list\|Improvised weapon]]. This weapon has an ideal range of X tiles and a maximum range of 2X tiles.
 
@@ -88,7 +88,7 @@ Damage modes represent the part of any weapon that actually hurts the foe. There
 
 **Innaccurate:** This weapon is not precise and consistent as a ranged weapon. It has a -1 penalty on ranged attack rolls.
 
-**Reloading (various):** This weapon must be reloaded in a way that is separate from its use to attack. Reload (fast) does not require an action to reload, but the reload only occurs if the user has their other hand free during the miscellaneous actions portion of the [[Game Rules/Combat/Combat Turn Order\|Combat Turn Order]]. Reload (X actions) means that the user must spend 1 action during the miscellaneous actions portion of the combat turn order X times before the weapon is reloaded. Reload (X actions+movements) is similar, except that the user can only make progress on reloading if they did not move during that turn.
+**Reload (various):** This weapon must be reloaded in a way that is separate from its use to attack. Reload (free hand) does not require an action to reload, but the reload only occurs if the user has their other hand free during the miscellaneous actions portion of the [[Game Rules/Combat/Combat Turn Order\|Combat Turn Order]]. Reload (X actions) means that the user must spend their action during the miscellaneous actions portion of the combat turn order X times before the weapon is reloaded.
 
 **Tiny:** This weapon's small size makes it much less deadly. It has a -1 penalty on all damage rolls.
 

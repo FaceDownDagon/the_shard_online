@@ -29,7 +29,7 @@ Spell attack keywords are similar to [[Game Rules/Gear/Weapon keywords\|Weapon k
 
 **Instant:** This spell attack happens instantaneously, leaving no time to respond. Characters have a -2 penalty to their reflex rolls to defend instant attacks.
 
-**Energy:** This spell attack has no material substance. Characters who lack cover have a -2 penalty to their reflex rolls to defend energy attacks.
+**Energy:** This spell attack has no material substance. Characters have a -2 penalty to their reflex rolls to defend energy attacks.
 
 **Flinch:** This spell attack inflicts a penalty to the victims attack rolls, spellcasting rolls, and willpower rolls to maintain focus. The penalty is equal to the shock damage dealt, and lasts until the end of this turn.
 
