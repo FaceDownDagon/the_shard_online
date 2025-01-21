@@ -19,7 +19,7 @@ Some of the mechanisms of stone inheritance are well-understood: Harder stones a
 ### Game effects
 Elemental alignment: Always void.
 Movement: 4 tiles (Bipedal)
-Size/Base HP: Standard (5 hp)
+Size/Base HP: Standard (3 hp)
 Extra senses: Arcane.
 Attribute bonuses: +1 Willpower.
 Boons: Select one, based on gemstone: {Perceptive}, [[Game Rules/Boons/Attribute boons/Vigor\|Vigor]], [[Game Rules/Boons/Attribute boons/Capacitance\|Capacitance]], or {resistant}.

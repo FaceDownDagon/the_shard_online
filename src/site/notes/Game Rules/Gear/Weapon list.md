@@ -12,7 +12,7 @@ Pike: Two-handed. Held/secured. Reach 4, thrusting, brace. Optional modification
 
 Spear: One-and-a-half-handed. Held/secured. Reach 3, thrusting, brace.
 
-Javelin: One-and-a-half-handed. Held/secured. Reach 3, thrusting, brace, fragile, throwing 10 (one-handed only), multihold 3.
+Javelin: One-and-a-half-handed. Held/secured. Reach 3, thrusting, brace, fragile, throwing 10 (one-handed only), multihold 3. Optional modifications: Add barbed.
 
 Staff: Two-handed. Held/secured. Reach 3, bashing +1, parrying, sweeping, innocuous, swift.
 

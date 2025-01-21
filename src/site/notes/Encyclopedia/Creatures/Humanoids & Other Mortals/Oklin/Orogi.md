@@ -17,7 +17,7 @@ Orogi are known for their distinctively striped skin - thus earning the common n
 ### Game effects
 Elemental alignment: 
 Movement: 4 tiles (Bipedal)
-Size/Base HP: 
+Size/Base HP: Slightly Large (4 hp)
 Attribute bonuses: +1 Strength.
 Boons:
 Other abilities:

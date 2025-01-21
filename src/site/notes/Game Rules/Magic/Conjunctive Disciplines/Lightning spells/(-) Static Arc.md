@@ -9,4 +9,4 @@ Area: 1x5 tile line (any orientation)
 Range: 8
 Attunement vs Reflex
 Effect:** When any character enters the space of the line, or remains within the line, roll against them. They take 1 damage per edge. The damage dealt is [[Game Rules/Magic/Spell attack keywords\|Lightning]] damage.
-**Duration: 3 turns (Focus)
+**Duration: 3 turns (Focus)**

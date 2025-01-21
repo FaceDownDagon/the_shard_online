@@ -17,4 +17,4 @@ Effect:** The target receives penalties based on the result of the opposed roll.
 Bleed converting to wounds does not cause additional bonus damage.
 
 When the target drops, the contagion automatically attempts to spread to the nearest enemy. Treat this as if the spell was being cast from the location that the original target dropped, but it takes no action on your part.
-**Duration: 3 turns. (Each new target also starts with a fresh 3-turn duration.)
+**Duration: 3 turns. (Each new target also starts with a fresh 3-turn duration.)**

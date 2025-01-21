@@ -6,7 +6,8 @@ Grappling occurs after an [[Game Rules/Combat/Attacking\|attacking]] character h
 
 Grappling is resolved via opposed Strength rolls. Unless stated otherwise, grapple rolls are made at the end of the melee portion of the [[Game Rules/Combat/Combat Turn Order\|Combat Turn Order]]. The character who began the grapple acts first, and then the other character(s).
 
-Unless you [[Game Rules/Combat/Attacking\|snagged]] a foe this turn with a [[Game Rules/Gear/Weapon keywords\|hooked]] weapon, you get a -2 penalty on your grapple rolls if you do not have a free hand (or the equivalent.) However, you may drop one or more items in your hands for free before making your grapple roll.
+Unless you [[Game Rules/Combat/Attacking\|snagged]] a foe this turn with a [[Game Rules/Gear/Weapon keywords\|hooked]] weapon, you get a -2 penalty on your grapple rolls if you do not have a free hand (or the equivalent.) However, you may drop one or more items in your hands for free before making your grapple roll. If holding a two-handed weapon, one hand can be removed to grapple; however, that weapon will be unavailable for attacking or defense until you can use it with both hands again. (This allows foes to deal direct damage via [[Game Rules/Combat/Attacking\|Smash]].)
+
 
 Based on the result of the roll, select one of the following results that you match or exceed the associated [[Game Rules/Basics/Rolling Dice\|edge]] requirement of:
 

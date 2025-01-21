@@ -50,11 +50,11 @@ Damage modes represent the part of any weapon that actually hurts the foe. There
 
 **Hooked:** This weapon can hook your opponent or their weapons. If you [[Game Rules/Combat/Attacking\|snag]] a foe, you don't take a penalty to your grapple roll for lacking free hands, and you may choose to end the grapple for free after your grapple action is resolved.
 
-**Sturdy:** This weapon has a foolproof construction. It has doubled hit points, and cannot incur breakage complications by attacking ([[Game Rules/Gear/Gear health & complications\|Gear health & complications]]).
+**Sturdy:** This weapon has a foolproof construction. It has doubled hit points, and cannot incur breakage complications by attacking ([[Game Rules/Gear/Gear health & mishaps\|Gear health & mishaps]]).
 
 **Throwing X:** This weapon is balanced and aerodynamic, such that it can be thrown effectively (used as a ranged attack.) Throwing weapon have an ideal range of X tiles and a maximum range of 2X tiles.
 
-**Barbed:** This weapon is designed to stick inside foes or their shields. It has a much greater chance to become stuck ([[Game Rules/Gear/Gear health & complications\|Gear health & complications]]).
+**Barbed:** This weapon is designed to stick inside foes or their shields. It has a much greater chance to become stuck ([[Game Rules/Gear/Gear health & mishaps\|Gear health & mishaps]]).
 
 **Innocuous:** This item is so mundane that it is often allowed where obvious weapons are not, and rarely arouses suspicion. No strict mechanical effect.
 
@@ -98,4 +98,4 @@ Damage modes represent the part of any weapon that actually hurts the foe. There
 
 **Unwieldy:** This weapon is long or bulky enough to require a planted stance to use properly. Take a -1 penalty to attack on any turn where you moved more than a single tile. If you attack in the ranged phase, instead take a -2 penalty to speed this turn.
 
-**Fragile:** This weapon is more susceptible to breaking than usual. It has only a single hit point, and a greater chance to incur a breakage ([[Game Rules/Gear/Gear health & complications\|Gear health & complications]]).
+**Fragile:** This weapon is more susceptible to breaking than usual. It has only a single hit point, and a greater chance to incur a breakage ([[Game Rules/Gear/Gear health & mishaps\|Gear health & mishaps]]).

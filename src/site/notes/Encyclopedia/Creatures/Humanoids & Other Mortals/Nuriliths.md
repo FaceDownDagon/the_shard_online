@@ -15,7 +15,7 @@ As a young race, Nuriliths largely integrated into the existing societies and cu
 ### Game effects
 Elemental alignment: Always blood.
 Movement: 2 tiles (Polypedal, female) or 3 tiles (Polypedal, male)
-Size/Base HP: Very Large (10 hp, female) or Standard (5 hp, male)
+Size/Base HP: Very Large (8 hp, female) or Standard (3 hp, male)
 Extra senses: Night vision
 Attribute bonuses: None
 Boons: {???}

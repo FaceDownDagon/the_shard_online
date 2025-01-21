@@ -6,7 +6,7 @@ The default movement rate of most humanoid characters is 4 tiles per turn. Each 
 
 A character can commit their action for the turn to run during this phase, increasing their movement range by 50% of their base movement rate, rounded down.
 
-Certain tiles may contain terrain that impedes movement - each such tile counts as two tiles for the purpose of movement. Other tiles may require [[Game Rules/Combat/Climbing, Swimming and Leaping\|Climbing, Swimming and Leaping]].
+Certain tiles may contain terrain that impedes movement - each such tile counts as two tiles for the purpose of movement. Other tiles may require [[Game Rules/Combat/Climbing, Swimming and Leaping\|Climbing, Swimming and Leaping]]. The type label given next to a races' base movement rate can effect some of these secondary movement modes, but does not generally affect their movement in open terrain.
 
 When using normal movement, if you are adjacent to a foe or become adjacent to a foe, you cannot move any further. Other movement, like [[Game Rules/Combat/Attacking\|jockey]], specifically ignores this restriction. Additionally, you may [[Game Rules/Combat/Ignoring foes\|ignore foes]].
 
