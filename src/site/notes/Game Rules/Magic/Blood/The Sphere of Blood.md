@@ -13,6 +13,6 @@ Corrosion magic governs acid, rust, and general entropy. It is perhaps the most 
 
 The conjunctive discipline between Earth and Blood is the discipline of Wood. Despite the name, wood magic manipulates the growth and shape of any sort of plant - not just trees. 
 
-The focus component of the Blood is material components. As long as the caster has a piece of organic matter on hand from a plant or animal with strong links to the spell being cast, casting magic becomes significantly easier for them.
+The focus component of the Blood is material components. As long as the caster has a piece of organic matter on hand from a plant or animal with strong links to the spell being cast, casting magic becomes significantly easier for them. Typically, a blood mage will keep a pouch filled with such items.
 
 ![BloodSymbol.jpeg](/img/user/Images/BloodSymbol.jpeg)

@@ -12,6 +12,6 @@ Lightning is the creation and manipulation of electrical impulse. Being a type o
 
 Corrosion magic governs acid, rust, and general entropy. It is perhaps the most purely destructive discipline of all fifteen, and excels at chewing through tough materials that are difficult to penetrate with conventional measures. 
 
-The focus component of the Fire Sphere is an 'adrenal component.' Fire mages access their spells far more easily during combat or other fight-or-flight situations.
+The focus component of the Fire Sphere is daylight. Fire mages access their spells far more easily when there is natural light.
 
 ![RadianceSymbol.jpeg](/img/user/Images/RadianceSymbol.jpeg)

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/game-rules/combat/ignoring-foes/"}
 ---
 
-In combat, if you deem certain enemies to be utterly unthreatening - or certain tactical opportunities too vital - you may entirely forfeit your ability to make reflex rolls defending against one or more of those enemies. By doing so, you may treat that foe as if they didn't exist in regards to [[Game Rules/Combat/Conditions\|Outnumbering]] and any [[Game Rules/Combat/Movement\|Movement]] that does not directly pass through their tile.
+In combat, if you deem certain enemies to be utterly unthreatening - or certain tactical opportunities too vital - you may take a -4 penalty to your reflex rolls defending against one or more of those enemies. By doing so, you may treat those foes as if they didn't exist in regards to [[Game Rules/Combat/Conditions\|Outnumbering]] and any [[Game Rules/Combat/Movement\|Movement]] that does not directly pass through their tile.
 
 You may alter this choice during the movement phase, and at no other time.
 

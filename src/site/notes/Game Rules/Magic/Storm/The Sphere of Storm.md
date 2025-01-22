@@ -12,6 +12,6 @@ Lightning is the creation and manipulation of electrical impulse. It is a bit mo
 
 Frost comprises spells related to the manipulation of ice and cold. It is considered a reasonably simple discipline to learn, but often sees less use than other energy-related disciplines by virtue of its more subtle applications. 
 
-The focus component of the Sphere is Storm is voice. Storm mages chant certain syllables in order to make the process of casting magic much easier for them.
+The focus component of the Sphere is Storm is voice. Storm mages chant certain syllables loudly in order to make the process of casting magic much easier for them.
 
 ![StormSymbol.jpeg](/img/user/Images/StormSymbol.jpeg)

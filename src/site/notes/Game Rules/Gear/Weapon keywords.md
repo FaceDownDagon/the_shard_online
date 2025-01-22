@@ -80,6 +80,8 @@ Damage modes represent the part of any weapon that actually hurts the foe. There
 
 **Prone use:** This weapon can be used without penalty while [[Game Rules/Combat/Conditions\|prone]].
 
+**Conduit:** This weapon can be used by a mage to cast their spells, negating the need for a free hand.
+
 **Entangling:** When thrown, this weapon can snag an opponent's gear or body. {It does stuff/placeholder.}
 
 #### Negative keywords

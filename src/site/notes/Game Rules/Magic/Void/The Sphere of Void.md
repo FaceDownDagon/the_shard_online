@@ -12,6 +12,6 @@ The discipline juxtaposed between the Sphere of Void and the Sphere of Earth is 
 
 Frost comprises spells related to the manipulation of ice and cold. It is considered a reasonably simple discipline to learn, but often sees less use than other energy-related disciplines by virtue of its more subtle applications. 
 
-In the Sphere of Void, the focus component of casting is the use of complex glyphs, which can be written onto paper, or made of any material, so long as the pattern is correct.
+In the Sphere of Void, the focus component of casting is the use of complex glyphs, which can be written onto paper, or made of any material, so long as the pattern is correct. Typically, a void mage will carry books or scrolls with these glyphs inscribed within.
 
 ![VoidSymbol.jpeg](/img/user/Images/VoidSymbol.jpeg)
