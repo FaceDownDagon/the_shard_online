@@ -12,7 +12,7 @@ While Nyxies do inherit some traits from their mothers, they are just as affecte
 
 There are three primary Nyxie populations across different cultures, so there is no singular agreement on how birth stones ought to be obtained and prepared, or even which are most desirable. The largest population is in [[Encyclopedia/Nation-states/Wassay\|Wassay]], where hard stones like diamond are most preferred, as stones are recovered from the fallen and passed on for rebirth. Sapphire and amethyst mines in [[Encyclopedia/Nation-states/Suddebrach\|Suddebrach]] and [[Encyclopedia/Nation-states/Turonne\|Turonne]] respectively formed the nuclei that the other two populations formed around. Those stones are still the most common in their respective regions, though trade ensures a variety of choices.
 
-Some of the mechanisms of stone inheritance are well-understood: Harder stones are linked to taller stature, stone color is linked to facial markings, and large stones are linked to pointed ears. Other alleged mechanisms range from credible to apocryphal: Do triangle cut gems bolster strength, or are young Nyxies who have one pushed to be warriors?
+Some of the mechanisms of stone inheritance are well-understood: Harder stones are linked to taller stature, stone color is linked to facial markings, and large stones are linked to pointed ears. Other alleged mechanisms range from credible to apocryphal: Do triangle cut gems bolster strength, or are young Nyxies who have one pushed to train as warriors?
 
 ![OIG4 (44).jpeg](/img/user/Images/OIG4%20(44).jpeg)
 
@@ -25,4 +25,4 @@ Attribute bonuses: +1 Willpower.
 Boons: Select one, based on gemstone: {Perceptive}, [[Game Rules/Boons/Attribute boons/Vigor\|Vigor]], [[Game Rules/Boons/Attribute boons/Capacitance\|Capacitance]], or {resistant}.
 Other abilities: 
 - Devour Magic: Nyxies automatically know the [[Game Rules/Magic/Void/Oblivion spells/(-) Dispel\|Dispel]] spell. When a nyxie successfully dispels magic from adjacent range, she may consume it, gaining her choice of +1 charge, or +1 on strength rolls next turn (including damage rolls.)
-- Crystalmancy: Nyxies can learn spells from the [[Game Rules/Magic/Earth/Construction (discipline)\|Construction discipline]] as if it were within their sphere. However, they may only use spells and modes of spells that create [[Encyclopedia/Objects/Materials/Mage-glass\|mage-glass]].
+- Crystalmancy: Nyxies can learn spells from the [[Game Rules/Magic/Earth/Construction (discipline)\|Construction discipline]] as if it were within their sphere. However, they may only use spells and modes of spells that create [[Encyclopedia/Objects/Materials/Mage-glass\|mage-glass]] in this way.

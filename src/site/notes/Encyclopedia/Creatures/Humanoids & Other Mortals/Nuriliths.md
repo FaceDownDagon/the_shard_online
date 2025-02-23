@@ -21,4 +21,4 @@ Attribute bonuses: None
 Boons: {???}
 Other abilities: 
 - Sticky Acid: Nuriliths have access to the following hybrid weapon profile. *Slimespitter: Non-handed. Always available. Ranged 2, toxic, attached, {recharge}, {sticky/persistent?}
-- True Omnivore: Nuriliths can eat any organic matter that they can swallow, without becoming sick or suffering the effects of ingested poisons.
+- True Omnivore: Nuriliths can eat and gain sustenance from any organic matter that they can swallow, without becoming sick or suffering the effects of ingested poisons.
