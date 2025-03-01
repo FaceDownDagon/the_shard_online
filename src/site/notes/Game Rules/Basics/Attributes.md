@@ -29,3 +29,4 @@ The following additional stats can be derived from a character's attributes:
 | 16/17              | 7            |
 | 18/19/20           | 8            |
 | 21/22              | 9            |
+| 23/24/25           | 10           |

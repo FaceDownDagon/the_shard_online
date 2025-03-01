@@ -33,3 +33,6 @@ Spell attack keywords are similar to [[Game Rules/Gear/Weapon keywords\|Weapon k
 
 **Flinch:** This spell attack inflicts a penalty to the victims attack rolls, spellcasting rolls, and willpower rolls to maintain focus. The penalty is equal to the shock damage dealt, and lasts until the end of this turn.
 
+**Recharge X:** This property is normally found on biological attacks or magical artifacts. After an attack is made with a weapon with this property, another cannot be made during the following X turns.
+
+**Persistent:** If an attack with this weapon successfully deals damage, you may roll damage again at the end of the next turn, but at a -1 penalty. This process repeats until either no damage is dealt, or an action is taken which logically eliminates the source of ongoing damage (for example, a burning character diving under water - the GM ultimately decides what qualifies.) The penalty compounds upon itself, so a third damage roll would be at -2, a fourth at -3, etc.
