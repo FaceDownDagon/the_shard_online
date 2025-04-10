@@ -10,7 +10,7 @@ Agkurha haven't spread terribly far from their origin at Jagrith's lair, and are
 
 Within their society, orcinization is performed on young males who pass a series of trials. It is forbidden to discuss the exact content of the trials, but they test survival skills, combat ability, and moral character. The trials are designed to be difficult enough that only a few participants will succeed. Female Agkurha typically are orcinized via marriage to an orc, but the trials are theoretically open to them as well - however, participation is only expected for the males.
 
-![Resizer_17408466877581.jpeg](/img/user/Resizer_17408466877581.jpeg)
+![Resizer_17408466877581.jpeg](/img/user/Images/Resizer_17408466877581.jpeg)
 
 ### Game effects
 [[Encyclopedia/Creatures/Humanoids & Other Mortals/Oklin/Oklin\|Basal Oklin stats]], plus...

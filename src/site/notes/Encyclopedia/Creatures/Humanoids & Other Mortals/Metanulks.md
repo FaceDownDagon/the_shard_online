@@ -24,3 +24,5 @@ Extra senses:
 Attribute bonuses:
 Boons: 
 Other abilities: 
+- Hyperfixation: Select one utility skill. You have a +1 bonus on all rolls involving this skill, but a -1 penalty on all rolls involving any other utility skill.
+- Earthen Body: Reduce the amount of [[Game Rules/Combat/Damage types\|bleed]] you receive by half.
